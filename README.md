@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>I know much Javascript and some python</p>
-<br>
-<p>My favorite project to work on is <a href='https://github.com/ethanaobrien/web-server-chrome'>Web Server for Chrome</a>. I have made lots of awesome features!</p>
-<p>Please help me think of more features to add! I am kind of out of ideas!</p>
+I enjoy javascript!
+
+Check out [This web server](https://github.com/ethanaobrien/web-server) - I made the backend
