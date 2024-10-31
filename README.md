@@ -2,4 +2,4 @@
 
 I like stars, stars are cool
 
-[Contact me via matrix.](https://matrix.to/#/@ethan:m.ethanthesleepy.one)  I do not use Discord, do not ask.
+[Contact me via matrix.](https://matrix.to/#/@ethan:m.ethanthesleepy.one)
