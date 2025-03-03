@@ -5,3 +5,5 @@ My favourite IDE is notepad++
 Preferred contact method: [Contact me via matrix](https://matrix.to/#/@ethan:m.ethanthesleepy.one)
 
 I like stars, stars are cool
+
+Why am I less active? Check here: https://git.ethanthesleepy.one/explore/repos
